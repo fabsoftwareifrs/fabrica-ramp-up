@@ -8,7 +8,7 @@ O objetivo proncipal deste projeto é que você tente desenvolver um CRUD inicia
 
 ## Materiais
 Ninguém nasce sabendo e compreendemos que muitos alunos que chegam a fábrica não tem experiência com as tecnologias que usamos, você pode consultar como utilizar essas tecnologias em qualquer lugar, mas recomendamos os cursos gratuitos de JavaScript, Node e React da [Rocketseat](https://github.com/Rocketseat/awesome)!
- 
+
 ## O Desafio
 
 Desenvolva uma aplicação [Node](https://nodejs.org/pt-br/) utilizando o framework [React](https://pt-br.reactjs.org/) e [Express](https://expressjs.com/pt-br/).
@@ -22,7 +22,7 @@ Desenvolva uma aplicação [Node](https://nodejs.org/pt-br/) utilizando o framew
 * **Importante:** queremos observar todo seu processo de desenvolvimento, commit por commit, portanto **NÃO FAÇA** apenas um commit para todo projeto;
 * Preferencialmente se puder disponibilize um link para visualizarmos o seu teste rodando - você pode hospedar temporariamente onde preferir, caso não tenha onde colocar, sugerimos que dê uma olhada nos serviços da [Vercel](https://vercel.com/) e [Heroku](https://www.heroku.com/nodejs);
 * Insira no seu `README.md` instruções / documentação necessária sobre como rodarmos seu teste localmente;
-* Pro teste ficar legal, considere como se estivesse desenvolvendo para uma marca real, para ter interface específica como cores, marca, formas e dados como se fosse para um cliente. Você pode usar qualquer marca que preferir, exemplo: [Hyundai](https://www.hyundai.com.br/), [Renault](https://www.renault.com.br/), [Boticário](http://www.boticario.com.br/), [Coca-Cola](https://www.cocacola.com.br/pt/home/) etc. - você pode brincar com cadastros de produtos específicos das empresas, como modelos, cores, categorias, entre outra opções;
+* Pro teste ficar legal, considere como se estivesse desenvolvendo para uma marca real, para ter interface específica como cores, marca, formas e dados como se fosse para um cliente. Você pode usar qualquer marca que preferir, exemplo: [Hyundai](https://www.hyundai.com.br/), [Renault](https://www.renault.com.br/), [Boticário](http://www.boticario.com.br/), [Coca-Cola](https://www.cocacola.com.br/pt/home/) etc. - você pode brincar com cadastros de produtos específicos das empresas, como modelos, cores, categorias, entre outra opções, não se preocupe em "clonar" a interface dessas empresas você não precisa fazer nada complexo, porém se precisar de inspiração do que fazer ou como fazer são exemplos legais de onde buscar;
 * Caso queira nos encaminhar junto algum(ns) outro(s) trabalho(s) ou link(s) que considere interessante, fique a vontade, adoramos ver o que você já desenvolveu, mas precisamos que faça o teste para que possamos conhêce-lo;
 
 **Importante:** há respostas de outras pessoas para este desafio no GitHub - fique a vontade para visualizá-las como **exemplos** - mas em momento algum copie e/ou dê fork para nos enviar como se fosse sua resposta. Esse tipo de comportamento prejudicará o objetivo deste exercício. O mesmo vale para cópias praticamente integrais de tutoriais que possa encontrar na internet - com exceção da própria documentação do framework.
