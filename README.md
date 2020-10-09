@@ -59,4 +59,4 @@ Bom exercício!
 
 Entre os links abaixo, alguns desenvolvedores que fizeram esse exercício anteriormente.
 
-* Camilo Cunha de Azevedo - [repositório](https://github.com/Camilotk/mvc-dspw)
+* Camilo Cunha de Azevedo - [repositório](https://github.com/Camilotk/exemplo-fabrica-software)
