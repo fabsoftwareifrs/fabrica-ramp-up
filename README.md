@@ -6,7 +6,9 @@ Primeiramente muítissimo obrigado pela sua participação na Fábrica de Softwa
 
 O objetivo proncipal deste projeto é que você tente desenvolver um CRUD inicial para que conheça as ferramentas que irá utilizar enquanto trabaha na Fábrica e também para que possamos conhecer suas dúvidas e dificuldades com nossa stack e possamos te ajudar e também saber como direcioná-lo em nossos projetos.
 
-
+## Materiais
+Ninguém nasce sabendo e compreendemos que muitos alunos que chegam a fábrica não tem experiência com as tecnologias que usamos, você pode consultar como utilizar essas tecnologias em qualquer lugar, mas recomendamos os cursos gratuitos de JavaScript, Node e React da [Rocketseat](https://github.com/Rocketseat/awesome)!
+ 
 ## O Desafio
 
 Desenvolva uma aplicação [Node](https://nodejs.org/pt-br/) utilizando o framework [React](https://pt-br.reactjs.org/) e [Express](https://expressjs.com/pt-br/).
