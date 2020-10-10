@@ -62,3 +62,4 @@ Bom exercício!
 Entre os links abaixo, alguns desenvolvedores que fizeram esse exercício anteriormente.
 
 * Camilo Cunha de Azevedo - [repositório](https://github.com/Camilotk/exemplo-fabrica-software)
+* Douglas Rauschkolb - [repositório](https://github.com/DouglasRauschkolb/desafio-fabrica-software)
