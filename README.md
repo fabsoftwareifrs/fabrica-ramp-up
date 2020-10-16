@@ -63,3 +63,4 @@ Entre os links abaixo, alguns desenvolvedores que fizeram esse exercício anteri
 
 * Camilo Cunha de Azevedo - [repositório](https://github.com/Camilotk/exemplo-fabrica-software)
 * Douglas Rauschkolb - [repositório](https://github.com/DouglasRauschkolb/desafio-fabrica-software)
+* Eduardo Faggion - [repositório](https://github.com/palhasad/cine-management)
